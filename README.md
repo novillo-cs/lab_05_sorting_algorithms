@@ -19,5 +19,3 @@
 * The methods in Sorts.java should be static and void.
 
 * Print the status of your array after each step/iteration performed by your algorithm (outer loop only). This is a good way to debug your code and make sure your algorithm is working properly.
-  
-* Do not use recursion.
