@@ -10,6 +10,8 @@
 
 * You must upload the pseudocode for each sorting algorithm to your repo.
 
+* Complete the time complexity file. 
+
 * In Driver.java, you must randomly generate an array that will be sent as an argument when you call the sorting methods. If you want to reuse the same random array for all sorting algoritms you must generate copies of your array (Arrays.copyOf() or Objects.clone()).
 
 * Do not use an ArrayList.
